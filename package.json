@@ -4,6 +4,7 @@
   "description": "All things good with React",
   "main": "index.js",
   "scripts": {
+    "launch": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "repository": {
     "type": "git",
