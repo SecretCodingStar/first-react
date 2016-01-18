@@ -4,7 +4,6 @@
   "description": "All things good with React",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -12,8 +11,12 @@
   },
   "author": "Darrel-Day Guerrero",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ddayguerrero/react-sandbox/issues"
-  },
-  "homepage": "https://github.com/ddayguerrero/react-sandbox#readme"
+  "dependencies": {
+      "babel-preset-stage-1": "^6.1.18",
+      "lodash": "^3.10.1",
+      "react": "^0.14.3",
+      "react-dom": "^0.14.3",
+      "react-redux": "^4.0.0",
+      "redux": "^3.0.4"
+  }
 }
