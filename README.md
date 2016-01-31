@@ -1,2 +1,3 @@
-# react-sandbox
-All things good with React
+# you-react
+
+## Getting started
