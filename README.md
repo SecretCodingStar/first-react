@@ -1,5 +1,5 @@
 # you-react
-Minimalist reactive YouTube search engine. Proof of concept conceived with React and Redux. Getting hands dirty during my introduction to ReactJS.
+Minimalist reactive YouTube search engine. Proof of concept conceived with React and Redux. Getting hands dirty during my introduction to React course.
 
 ![You-React](http://i.imgur.com/KhyvUBH.png?1)
 
