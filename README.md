@@ -10,4 +10,4 @@ npm install
 npm start
 ```
 
-Enjoy!
+Application is accessed by default on localhost:8080. Enjoy!
